@@ -2,9 +2,15 @@
 #include <fstream>
 #include <string>
 
-int countLine(string pName){
-return 0;
+void countLine(string pName){
+    return 0;
+}
+
+void countChar(string pName){
+    return 0;
 }
 int main(){
+    string line;
+    string char;
     return 0;
 }
